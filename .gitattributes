@@ -1,0 +1,82 @@
+# Image
+DavIsDead/Assets/*.jpg filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.jpeg filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.png filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.apng filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.atsc filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.gif filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.bmp filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.exr filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.tga filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.tiff filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.tif filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.iff filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.pict filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.dds filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.xcf filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.leo filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.kra filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.kpp filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.clip filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.webm filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.webp filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.svg filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.svgz filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.psd filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.afphoto filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.afdesign filter=lfs diff=lfs merge=lfs -text
+
+# Audio
+DavIsDead/Assets/*.mp3 filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.ogg filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.wav filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.aiff filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.aif filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.mod filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.it filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.s3m filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.xm filter=lfs diff=lfs merge=lfs -text
+
+# Video
+DavIsDead/Assets/*.mov filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.avi filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.asf filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.mpg filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.mpeg filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.mp4 filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.flv filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.ogv filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.wmv filter=lfs diff=lfs merge=lfs -text
+
+# 3D
+DavIsDead/Assets/*.fbx filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.obj filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.max filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.blend filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.blender filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.dae filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.mb filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.ma filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.3ds filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.dfx filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.c4d filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.lwo filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.lwo2 filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.abc filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.3dm filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.bin filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.glb filter=lfs diff=lfs merge=lfs -text
+
+# Packaging
+DavIsDead/Assets/*.zip filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.7z filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.gz filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.rar filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.tar filter=lfs diff=lfs merge=lfs -text
+
+# Executables
+DavIsDead/Assets/*.exe filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.dll filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.so filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.pdb filter=lfs diff=lfs merge=lfs -text
+DavIsDead/Assets/*.mdb filter=lfs diff=lfs merge=lfs -text
